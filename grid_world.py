@@ -34,6 +34,9 @@ class Grid: # Environment
 
   def is_terminal(self, s):
     return s not in self.actions
+	
+  def anotherNewFuntion(self, s):
+	return s + 1
 
   def move(self, action):
     # check if legal move first
