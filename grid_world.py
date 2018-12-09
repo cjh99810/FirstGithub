@@ -7,7 +7,10 @@ from builtins import range
 
 
 import numpy as np
-
+import pandas as pd 
+import tensorflow as tf 
+import matplotlib.pyplot as plt 
+#try to add few more libraries here
 
 class Grid: # Environment
   def __init__(self, width, height, start):
