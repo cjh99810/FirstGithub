@@ -9,7 +9,7 @@ from builtins import range
 import numpy as np
 import pandas as pd 
 import tensorflow as tf 
-import matplotlib.pyplot as plt 
+import matplotlib.pyplot as plt2 
 import seaborn as sns 
 #try to add few more libraries here
 
